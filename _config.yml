@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_4560.JPG"
+  avatar           : "profile2.png"
   name             : "Andrés Napurí"
   pronouns         : "he/him, él"  
   bio              : "linguist and social scientist"
