@@ -44,6 +44,15 @@ Grants & Awards
 Download full CV
 ======
 
-<iframe src="https://github.com/andresnapuri/andresnapuri.github.io/blob/9690b8314f6e896824c51c46d4fd0b8dd53910bc/files/Napuri-CV-EN.pdf" width="100%" height="500" frameborder="0" />
+<iframe src="/files/Napuri-CV-EN.pdf" width="100%" height="500" frameborder="0" />
 
-<a href="https://github.com/andresnapuri/andresnapuri.github.io/blob/92b6ca2c1d3a0df2360679d6df9cb31ccbfebf12/files/Napuri-CV-EN.pdf" target="_blank"> Andrés Napurí CV </a>
+<a src="/files/Napuri-CV-EN.pdf" target="_blank"> Andrés Napurí CV </a>
+
+<iframe src="/files/Napuri-CV-EN.pdf" title="Andrés Napurí's CV" align="top" height="620" width="100%" frameborder="0" scrolling="auto" target="Message">
+
+<!-- Alternate content for non supporting browsers -->
+
+<p align="center">Please click <a href="window.location.href='your_script.php'">here </a> to continue.</p>
+
+</iframe
+
