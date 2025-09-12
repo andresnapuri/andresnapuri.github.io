@@ -43,3 +43,4 @@ Grants & Awards
   
 Download full CV
 ======
+<a href="https://github.com/andresnapuri/andresnapuri.github.io/blob/92b6ca2c1d3a0df2360679d6df9cb31ccbfebf12/files/Napuri%CC%81-CV-EN.pdf" target="_blank"> Andrés Napurí CV </a>
