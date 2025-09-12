@@ -44,17 +44,11 @@ Grants & Awards
 Download full CV
 ======
 
-![CV](/files/Napuri-CV-EN.pdf)
+# My CV
 
-<iframe src="/files/Napuri-CV-EN.pdf" width="100%" height="500" frameborder="0" />
-
-<a src="/files/Napuri-CV-EN.pdf" target="_blank"> Andrés Napurí CV </a>
-
-<iframe src="/files/Napuri-CV-EN.pdf" title="Andrés Napurí's CV" align="top" height="620" width="100%" frameborder="0" scrolling="auto" target="Message">
-
-<!-- Alternate content for non supporting browsers -->
-
-<p align="center">Please click <a href="window.location.href='your_script.php'">here </a> to continue.</p>
-
-</iframe
+<iframe src="/pdfjs/web/viewer.html?file=/files/Napuri-CV-EN.pdf" 
+        width="100%" 
+        height="800px" 
+        style="border: none;">
+</iframe>
 
