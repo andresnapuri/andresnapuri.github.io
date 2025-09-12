@@ -59,4 +59,3 @@ permalink: /cv/
   </iframe>
 </div>
 
-
