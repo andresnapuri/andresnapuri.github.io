@@ -17,9 +17,7 @@ In recent years, together with a group of colleagues, we have edited life storie
 
 [![imageh_alt](https://github.com/andresnapuri/andresnapuri.github.io/blob/198355fafd2f7422339d9d4706f7a75a3b3e2ac8/images/Diaz.png)](https://doi.org/10.18800/9786123172633)
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-
+These studies attribute authorship to the indigenous leaders interviewed. They are also highly valuable projects because they offer marginalised voices a platform in academia and among the general public. They also provide a space for discussion and growth between Linguistics and other social science disciplines, such as Anthropology.
 
 Some recent projects
 ======
