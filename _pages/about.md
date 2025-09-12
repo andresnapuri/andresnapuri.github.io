@@ -13,6 +13,8 @@ Some of my previous work on Amazonian languages
 ======
 In recent years, together with a group of colleagues, we have edited life stories of indigenous leaders. In both cases, these are studies in predominantly oral Amazonian languages, with very little written tradition in their language. Both books include introductory studies, as well as a bilingual edition in Ashaninka-Spanish, and Bora-Spanish, respectively. Thanks to an institutional agreement, both books are now freely available at the following links:
 
+<img src="images/Casanto.png">
+
 [![imageh alt](https://github.com/andresnapuri/andresnapuri.github.io/blob/198355fafd2f7422339d9d4706f7a75a3b3e2ac8/images/Casanto.png)](https://doi.org/10.18800/978-612-317-804-8)
 
 [![imageh_alt](https://github.com/andresnapuri/andresnapuri.github.io/blob/198355fafd2f7422339d9d4706f7a75a3b3e2ac8/images/Diaz.png)](https://doi.org/10.18800/9786123172633)
