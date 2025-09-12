@@ -21,7 +21,7 @@ These studies attribute authorship to the indigenous leaders interviewed. They a
 
 Some recent projects
 ======
-1. Currently, together with Dr. [Margarita Jara](https://www.unlv.edu/people/margarita-jara), we are editing a dossier in the journal [_Letras_](https://revista.letras.unmsm.edu.pe/index.php/le/convocatoria-2025) (Scopus, Q1) on Amazonian Spanish. This volume is scheduled to be published in December 2025.
+1. Currently, with Dr. [Margarita Jara](https://www.unlv.edu/people/margarita-jara), we are editing a dossier in the journal [_Letras_](https://revista.letras.unmsm.edu.pe/index.php/le/convocatoria-2025) (Scopus, Q1) on Amazonian Spanish. This volume is scheduled to be published in December 2025.
 1. I will be participating as a guest speaker at the 10th CILE in the city of Arequipa in October 2025. 
 1. A manuscript on coalescence and epenthesis in Mazamari Ashaninka (Arawakan), in collaboration with colleagues of UNMSM, has been accepted for publication in _Onomázein_ (Scopus, Q2) for the second quarter of 2027. Ask me for the preprint!
-1. In collaboration with [CRC 1412](https://sfb1412.hu-berlin.de/projects/a09/) at Humboldt Universität and with colleagues at [UNIFSLB](https://www.unibagua.edu.pe) we are conducting a research on the double possessive in Spanish in contact with Awajun (Chicham).
+1. In collaboration with [CRC 1412](https://sfb1412.hu-berlin.de/projects/a09/) at Humboldt Universität, and with colleagues at [UNIFSLB](https://www.unibagua.edu.pe), we are conducting a research on the double possessive in Spanish in contact with Awajun (Chicham).
