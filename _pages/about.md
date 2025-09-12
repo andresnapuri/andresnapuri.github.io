@@ -17,10 +17,6 @@ In recent years, together with a group of colleagues, we have edited life storie
 
 [<img src="/images/Diaz.png">](https://doi.org/10.18800/9786123172633)
 
-[![imageh alt](https://github.com/andresnapuri/andresnapuri.github.io/blob/198355fafd2f7422339d9d4706f7a75a3b3e2ac8/images/Casanto.png)](https://doi.org/10.18800/978-612-317-804-8)
-
-[![imageh_alt](https://github.com/andresnapuri/andresnapuri.github.io/blob/198355fafd2f7422339d9d4706f7a75a3b3e2ac8/images/Diaz.png)](https://doi.org/10.18800/9786123172633)
-
 These studies attribute authorship to the indigenous leaders interviewed. They are also highly valuable projects because they offer marginalised voices a platform in academia and among the general public. They also provide a space for discussion and growth between Linguistics and other social science disciplines, such as Anthropology.
 
 Some recent projects
