@@ -13,9 +13,19 @@ Education
 ======
 * Ph.D in Linguistics, New York University, 2030 (expected)
 * M.Sc. in Social Anthropology, University of Oxford, 2019
-* M.A. in Linguistics, PUCP, 2012
 
-Work experience
+Visiting Positions
+======
+* 2025, Visiting Researcher
+  * Humboldt Universität, Berlin
+  * Collaborative Research Center 1412 Register, PI. Dr. Miriam Bozouita
+
+* 2025, Visiting Scholar
+  * University of Oxford
+  * Faculty of Linguistics, Philology, and Phonetics 
+  * Phonetics Laboratory, PI. Dr. José Elías-Ulloa
+    
+Grants & Awards
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
