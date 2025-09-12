@@ -21,9 +21,7 @@ These studies attribute authorship to the indigenous leaders interviewed. They a
 
 Some recent projects
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Currently, together with Dr. [Margarita Jara](https://www.unlv.edu/people/margarita-jara), we are editing a dossier in the journal [_Letras_](https://revista.letras.unmsm.edu.pe/index.php/le/convocatoria-2025) (Scopus, Q1) on Amazonian Spanish. This volume is scheduled to be published in December 2025.
+1. I will be participating as a guest speaker at the 10th CILE in the city of Arequipa in October 2025. 
+1. A manuscript on coalescence and epenthesis in Mazamari Ashaninka (Arawakan), in collaboration with colleagues of UNMSM, has been accepted for publication in _Onomázein_ (Scopus, Q2) for the second quarter of 2027. Ask me for the preprint!
+1. In collaboration with [CRC 1412](https://sfb1412.hu-berlin.de/projects/a09/) at Humboldt Universität and with colleagues at [UNIFSLB](https://www.unibagua.edu.pe) we are conducting a research on the double possessive in Spanish in contact with Awajun (Chicham).
