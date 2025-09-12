@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first year PhD student in Linguistics at New York University. M.Sc. in Social Anthropology at the University of Oxford. Assistant Professor of Amazonian Linguistics at UNMSM. Visiting Scholar at the University of Oxford, and Visiting Researcher at the Humboldt Universität, Berlin. My research focuses on phonological aspects of Amazonian languages. I have also conducted ethnolinguistic, ethnographic, and grammatical studies with members of Amazonian societies, like Bora (Boran) and Ashaninka (Arawakan)
+I am currently a first year PhD student in Linguistics at New York University. M.Sc. in Social Anthropology at the University of Oxford. Assistant Professor of Amazonian Linguistics at UNMSM. Visiting Scholar at the University of Oxford, and Visiting Fellow at the Humboldt Universität, Berlin. My research focuses on phonological aspects of Amazonian languages. I have also conducted ethnolinguistic, ethnographic, and grammatical studies with members of Amazonian societies, like Bora (Boran) and Ashaninka (Arawakan)
 
 Some of my previous work on Amazonian languages
 ======
