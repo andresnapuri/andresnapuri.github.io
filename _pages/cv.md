@@ -16,7 +16,7 @@ Education
 
 Visiting Positions
 ======
-* 2025, Visiting Researcher
+* 2025, Visiting Fellow
   * Humboldt Universität, Berlin
   * Collaborative Research Center 1412 Register, PI. Dr. Miriam Bozouita
 
@@ -27,20 +27,19 @@ Visiting Positions
     
 Grants & Awards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025-2030, MacCracken Fellowship
+  * New York University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2025-2028, Annual Research Project Contest, PI. Dr. Luis Andrade
+  * PUCP
+    
+* 2025, Fellowship for Postgraduate Researcher
+  * Humboldt Universität
+  * On the Interplay between Register and Sociolect: Possession in Amazonian and Canarian Spanish
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2024, Leverhulme Small Research Grants, PI Dr. Jose Elías-Ulloa
+  * British Academy
+  * The phonetics of VOT and aspiration in aspirated and non-aspirated consonants in Bora
   
 Skills
 ======
