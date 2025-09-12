@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
   
-Download full CV
+Preview & Download
 ======
 
 <div style="height:90vh;">
