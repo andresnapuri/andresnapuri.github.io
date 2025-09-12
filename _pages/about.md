@@ -11,7 +11,7 @@ I am currently a first year PhD student in Linguistics at New York University. M
 
 Some of my previous work on Amazonian languages
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+In recent years, together with a group of colleagues, we have edited life stories of indigenous leaders. In both cases, these are studies in predominantly oral Amazonian languages, with very little written tradition in their language. Both books include introductory studies, as well as a bilingual edition in Ashaninka-Spanish, and Bora-Spanish, respectively. Thanks to an institutional agreement, both books are now freely available at the following links:
 
 [![imageh alt](https://github.com/andresnapuri/andresnapuri.github.io/blob/198355fafd2f7422339d9d4706f7a75a3b3e2ac8/images/Casanto.png)](https://doi.org/10.18800/978-612-317-804-8)
 
