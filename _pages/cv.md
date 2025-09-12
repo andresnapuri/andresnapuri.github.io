@@ -44,11 +44,19 @@ Grants & Awards
 Download full CV
 ======
 
-# My CV
+---
+layout: page
+title: CV
+permalink: /cv/
+---
 
-<iframe src="/pdfjs/web/viewer.html?file=/files/Napuri-CV-EN.pdf" 
-        width="100%" 
-        height="800px" 
-        style="border: none;">
-</iframe>
+<div style="height:90vh;">
+  <iframe
+    src="/pdfjs/web/viewer.html?file=/files/Napuri-CV-EN.pdf"
+    width="100%"
+    height="100%"
+    style="border: none;">
+  </iframe>
+</div>
+
 
