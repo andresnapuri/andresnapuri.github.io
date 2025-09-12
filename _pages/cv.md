@@ -44,6 +44,8 @@ Grants & Awards
 Download full CV
 ======
 
+![CV](/files/Napuri-CV-EN.pdf)
+
 <iframe src="/files/Napuri-CV-EN.pdf" width="100%" height="500" frameborder="0" />
 
 <a src="/files/Napuri-CV-EN.pdf" target="_blank"> Andrés Napurí CV </a>
