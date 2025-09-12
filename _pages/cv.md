@@ -30,44 +30,16 @@ Grants & Awards
 * 2025-2030, MacCracken Fellowship
   * New York University
 
-* 2025-2028, Annual Research Project Contest, PI. Dr. Luis Andrade
-  * PUCP
+* 2025-2028, Annual Research Project Contest
+  * PUCP, PI. Dr. Luis Andrade
     
 * 2025, Fellowship for Postgraduate Researcher
-  * Humboldt Universität
+  * Humboldt Universität, PI. Dr. Miriam Bozouita
   * On the Interplay between Register and Sociolect: Possession in Amazonian and Canarian Spanish
 
-* 2024, Leverhulme Small Research Grants, PI Dr. Jose Elías-Ulloa
-  * British Academy
+* 2024, Leverhulme Small Research Grants
+  * British Academy, PI Dr. Jose Elías-Ulloa
   * The phonetics of VOT and aspiration in aspirated and non-aspirated consonants in Bora
   
-Skills
+Download full CV
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
