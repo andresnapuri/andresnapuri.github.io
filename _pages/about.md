@@ -15,7 +15,7 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 ＜img src="./andresnapuri.github.io/blob/75f3029db5a69dff51b0713b069611ec5d6a334d/images/Casanto.png" width="230" height="323"＞
 
-![imageh alt](https://github.com/andresnapuri/andresnapuri.github.io/blob/75f3029db5a69dff51b0713b069611ec5d6a334d/images/Casanto.png)
+![imageh alt](https://github.com/andresnapuri/andresnapuri.github.io/blob/198355fafd2f7422339d9d4706f7a75a3b3e2ac8/images/Casanto.png)
 
 
 Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
