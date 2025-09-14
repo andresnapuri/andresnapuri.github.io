@@ -11,7 +11,7 @@ I am currently a first year PhD student in Linguistics at NYU. M.Sc. in Social A
 
 Some of my previous work on Amazonian languages
 ======
-In recent years, together with a group of colleagues, [Luis Andrade Ciudad](https://www.pucp.edu.pe/profesor/luis-andrade-ciudad), [Susana Frisancho](https://www.pucp.edu.pe/profesor/susana-frisancho-hidalgo), and [Enrique Delgado](https://www.pucp.edu.pe/profesor/guillermo-delgado-ramos), we have edited life stories of indigenous leaders. In both cases, these are studies in predominantly oral Amazonian languages, with very little written tradition in their language. Both books include introductory studies, as well as a bilingual edition in Ashaninka-Spanish, and Bora-Spanish, respectively. Thanks to an institutional agreement, both books are now freely available at the following links:
+In recent years, with a group of colleagues, [Luis Andrade Ciudad](https://www.pucp.edu.pe/profesor/luis-andrade-ciudad), [Susana Frisancho](https://www.pucp.edu.pe/profesor/susana-frisancho-hidalgo), and [Enrique Delgado](https://www.pucp.edu.pe/profesor/guillermo-delgado-ramos), we have edited life stories of indigenous leaders. In both cases, these are studies in predominantly oral Amazonian languages, with very little written tradition in their language. Both books include introductory studies, as well as a bilingual edition in Ashaninka-Spanish, and Bora-Spanish, respectively. Thanks to an institutional agreement, both books are now freely available at the following links:
 
 [<img src="/images/Casanto.png">](https://doi.org/10.18800/978-612-317-804-8)
 
