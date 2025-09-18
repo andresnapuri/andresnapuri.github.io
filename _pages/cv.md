@@ -14,7 +14,7 @@ Preview & Download
 
 <div style="height:90vh;">
   <iframe
-    src="/pdfjs/web/viewer.html?file=/files/Napuri-CV-EN.pdf"
+    src="/pdfjs/web/viewer.html?file=/files/Napuri-CV.pdf"
     width="100%"
     height="100%"
     style="border: none;">
