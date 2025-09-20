@@ -1,2 +1,6 @@
 User-agent: *
+Disallow: /assets/
+Disallow: /admin/
+Disallow: /private/
+Allow: /public/
 Sitemap: https://andresnapuri.github.io/sitemap.xml
