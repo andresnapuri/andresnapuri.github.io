@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Homepage -->
+  <url>
+    <loc>https://andresnapuri.github.io/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Publications page -->
+  <url>
+    <loc>https://andresnapuri.github.io/publications/</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Book chapters page -->
+  <url>
+    <loc>https://andresnapuri.github.io/book-chapters/</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Add other pages manually or dynamically -->
+  {% for page in site.pages %}
+  <url>
+    <loc>{{ site.url }}{{ page.url }}</loc>
+    <priority>0.5</priority>
+  </url>
+  {% endfor %}
+
+  <!-- Posts (if any) -->
+  {% for post in site.posts %}
+  <url>
+    <loc>{{ site.url }}{{ post.url }}</loc>
+    <priority>0.6</priority>
+  </url>
+  {% endfor %}
+
+</urlset>
