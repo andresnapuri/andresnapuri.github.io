@@ -4,7 +4,8 @@
 
 {% include seo.html %}
 
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" 
+      type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
@@ -19,3 +20,43 @@
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<!-- ===== Open Graph & Twitter Cards ===== -->
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ page.title | default: site.title }}">
+<meta property="og:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ site.url }}/assets/images/profile.jpg">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title | default: site.title }}">
+<meta name="twitter:description" content="{{ page.excerpt | strip_html | strip_newlines | truncate: 200 }}">
+<meta name="twitter:image" content="{{ site.url }}/assets/images/profile.jpg">
+
+<!-- ===== Schema.org for Scholarly Articles ===== -->
+{% if page.collection == "publications" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": "{{ page.title | escape }}",
+  "author": {
+    "@type": "Person",
+    "name": "Andrés Napurí","Andres Napuri"
+    "url": "{{ site.url }}"
+  },
+  "datePublished": "{{ page.date | date_to_string }}",
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.title }}"
+  },
+  "url": "{{ page.url | absolute_url }}"{% if page.doi %},
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "{{ page.doi }}"
+  }{% endif %}
+}
+</script>
+{% endif %}
