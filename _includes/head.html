@@ -2,6 +2,9 @@
 
 <meta charset="utf-8">
 
+<!-- Google Search Console verification -->
+<meta name="google-site-verification" content="googlef9137b75d79f0e45" />
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" 
@@ -43,7 +46,7 @@
   "headline": "{{ page.title | escape }}",
   "author": {
     "@type": "Person",
-    "name": "Andrés Napurí","Andres Napuri"
+    "name": "Andrés Napurí",
     "url": "{{ site.url }}"
   },
   "datePublished": "{{ page.date | date_to_string }}",
