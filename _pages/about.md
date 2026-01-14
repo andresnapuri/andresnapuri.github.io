@@ -13,7 +13,7 @@ Some of my previous work on Amazonian languages
 ======
 Recently, with [Margarita Jara](https://www.unlv.edu/people/margarita-jara), we edited a special issue in the journal [_Letras_](https://revista.letras.unmsm.edu.pe/index.php/le/convocatoria-2025) on Amazonian Spanish. We have been working on this editorial project for much of 2025 and I am very pleased with the final result. This dossier contains works on dialectology and linguistic contact between Spanish and various Amazonian languages. It also features several colleagues whose work I greatly appreciate.
 
-[<img src="/images/Portada-Letras.png">](https://https://revista.letras.unmsm.edu.pe/index.php/le/issue/view/150/202)
+[<img src="/images/Portada-Letras.png">](https://revista.letras.unmsm.edu.pe/index.php/le/issue/view/150/202)
 
 In recent years, with a group of colleagues, [Luis Andrade Ciudad](https://www.pucp.edu.pe/profesor/luis-andrade-ciudad), [Susana Frisancho](https://www.pucp.edu.pe/profesor/susana-frisancho-hidalgo), and [Enrique Delgado](https://www.pucp.edu.pe/profesor/guillermo-delgado-ramos), we have edited life stories of indigenous leaders. In both cases, these are studies in predominantly oral Amazonian languages, with very little written tradition in their language. Both books include introductory studies, as well as a bilingual edition in Ashaninka-Spanish, and Bora-Spanish, respectively. Thanks to an institutional agreement, both books are now freely available at the following links:
 
