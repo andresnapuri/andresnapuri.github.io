@@ -11,6 +11,8 @@ I am currently a first year PhD student in Linguistics at NYU. M.Sc. in Social A
 
 Some of my previous work on Amazonian languages
 ======
+Recently, with [Margarita Jara](https://www.unlv.edu/people/margarita-jara), we edited a special issue in the journal [_Letras_](https://revista.letras.unmsm.edu.pe/index.php/le/convocatoria-2025) on Amazonian Spanish. We have been working on this editorial project for much of 2025 and I am very pleased with the final result. This dossier contains works on dialectology and linguistic contact between Spanish and various Amazonian languages. It also features several colleagues whose work I greatly appreciate.
+
 In recent years, with a group of colleagues, [Luis Andrade Ciudad](https://www.pucp.edu.pe/profesor/luis-andrade-ciudad), [Susana Frisancho](https://www.pucp.edu.pe/profesor/susana-frisancho-hidalgo), and [Enrique Delgado](https://www.pucp.edu.pe/profesor/guillermo-delgado-ramos), we have edited life stories of indigenous leaders. In both cases, these are studies in predominantly oral Amazonian languages, with very little written tradition in their language. Both books include introductory studies, as well as a bilingual edition in Ashaninka-Spanish, and Bora-Spanish, respectively. Thanks to an institutional agreement, both books are now freely available at the following links:
 
 [<img src="/images/Casanto.png">](https://doi.org/10.18800/978-612-317-804-8)
@@ -21,7 +23,5 @@ These studies attribute authorship to the indigenous leaders interviewed. They a
 
 Some recent projects
 ======
-1. Currently, with [Margarita Jara](https://www.unlv.edu/people/margarita-jara), we are editing a dossier in the journal [_Letras_](https://revista.letras.unmsm.edu.pe/index.php/le/convocatoria-2025) on Amazonian Spanish. This volume is scheduled to be published in December 2025.
-1. I will be participating as a guest speaker at the 10th CILE in the city of Arequipa in October 2025. 
 1. A manuscript on coalescence and epenthesis in Mazamari Ashaninka (Arawakan), in collaboration with colleagues of UNMSM, has been accepted for publication in _Onomázein_ for the second quarter of 2027. Ask me for the preprint!
 1. In collaboration with [CRC 1412](https://sfb1412.hu-berlin.de/projects/a09/) at Humboldt Universität, and with colleagues at [UNIFSLB](https://www.unibagua.edu.pe), we are conducting a research on the double possessive in Spanish in contact with Awajun (Chicham).
