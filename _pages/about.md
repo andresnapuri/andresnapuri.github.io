@@ -11,7 +11,7 @@ I am currently a first year PhD student in Linguistics at NYU. M.Sc. in Social A
 
 Some of my previous work on Amazonian languages
 ======
-Recently, with [Margarita Jara](https://www.unlv.edu/people/margarita-jara), we edited a special issue in the journal [_Letras_](https://revista.letras.unmsm.edu.pe/index.php/le/convocatoria-2025) on Amazonian Spanish. We have been working on this editorial project for much of 2025 and I am very pleased with the final result. This dossier contains works on dialectology and linguistic contact between Spanish and various Amazonian languages. It also features several colleagues whose work I greatly appreciate.
+Recently, with [Margarita Jara](https://www.unlv.edu/people/margarita-jara), we edited a special issue in the journal [_Letras_](https://revistaletras.unmsm.edu.pe/index.php/le/convocatoria-2025) on Amazonian Spanish. We have been working on this editorial project for much of 2025 and I am very pleased with the final result. This dossier contains works on dialectology and linguistic contact between Spanish and various Amazonian languages. It also features several colleagues whose work I greatly appreciate.
 
 [<img src="/images/Portada-Letras.png">](https://revistaletras.unmsm.edu.pe/index.php/le/issue/view/150)
 
