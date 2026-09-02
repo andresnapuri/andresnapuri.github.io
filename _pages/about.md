@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a first year PhD student in Linguistics at NYU, advised by [Gillian Gallagher](https://wp.nyu.edu/gilliangallagher/). M.Sc. in Social Anthropology at the University of Oxford. Assistant Professor of Amazonian Linguistics at Universidad Nacional Mayor de San Marcos, Lima, Peru. I was Visiting Scholar at the University of Oxford, and Visiting Fellow at the Humboldt Universität, Berlin. My research focuses on phonological aspects of Amazonian languages. I have also conducted ethnolinguistic, ethnographic, and grammatical studies with members of Amazonian societies, like Bora (Boran) and Ashaninka (Arawakan)
+I am currently a second year PhD student in Linguistics at NYU, advised by [Gillian Gallagher](https://wp.nyu.edu/gilliangallagher/). M.Sc. in Social Anthropology at the University of Oxford. Assistant Professor of Amazonian Linguistics at Universidad Nacional Mayor de San Marcos, Lima, Peru. I was Visiting Scholar at the University of Oxford, and Visiting Fellow at the Humboldt Universität, Berlin. My research focuses on phonological aspects of Amazonian languages. I have also conducted ethnolinguistic, ethnographic, and grammatical studies with members of Amazonian societies, like Bora (Boran) and Ashaninka (Arawakan)
 
 Some of my previous work on Amazonian languages
 ======
